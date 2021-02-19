@@ -1,7 +1,7 @@
 using MaoNaMassa.ContextoDeConteudo.Enums;
 namespace MaoNaMassa.ContextoDeConteudo
 {
-    public class Aulas
+    public class Aulas 
     {
         public int Ordem { get; set; }
 

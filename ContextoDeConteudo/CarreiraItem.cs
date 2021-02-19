@@ -2,8 +2,9 @@ using System;
 
 namespace MaoNaMassa.ContextoDeConteudo
 {
-    public class CarreiraItem
+    public class CarreiraItem 
     {
+        
         public CarreiraItem(int ordem, string titulo, string descricao, Cursos cursos)
         {   if(cursos == null){
             throw new System.Exception("O curso nao pode ser nulo");

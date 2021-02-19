@@ -1,16 +1,16 @@
 using System;
+using MaoNaMassa.ContextoDeConteudo;
+
 
 namespace MaoNaMassa.ContextoDeConteudo
 {
-    public class Conteudo
+    public class Conteudo : Base
     {
         public Conteudo(string titulo, string url)
         {
-            Id = Guid.NewGuid();
             Titulo = titulo;
             Url = url;
         }
-        public Guid Id { get; set; }
 
         public string Titulo { get; set; }
 

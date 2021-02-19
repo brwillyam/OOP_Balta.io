@@ -2,7 +2,7 @@ using System.Collections.Generic;
 
 namespace MaoNaMassa.ContextoDeConteudo
 {
-    public class Modulo
+    public class Modulo 
     {
     
         public Modulo()
