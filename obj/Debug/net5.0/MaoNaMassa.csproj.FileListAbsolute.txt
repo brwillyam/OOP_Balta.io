@@ -1,0 +1,5 @@
+C:\dev\OrientacaoAObjetosBalta\MaoNaMassa\obj\Debug\net5.0\MaoNaMassa.csprojAssemblyReference.cache
+C:\dev\OrientacaoAObjetosBalta\MaoNaMassa\obj\Debug\net5.0\MaoNaMassa.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\OrientacaoAObjetosBalta\MaoNaMassa\obj\Debug\net5.0\MaoNaMassa.AssemblyInfoInputs.cache
+C:\dev\OrientacaoAObjetosBalta\MaoNaMassa\obj\Debug\net5.0\MaoNaMassa.AssemblyInfo.cs
+C:\dev\OrientacaoAObjetosBalta\MaoNaMassa\obj\Debug\net5.0\MaoNaMassa.csproj.CoreCompileInputs.cache

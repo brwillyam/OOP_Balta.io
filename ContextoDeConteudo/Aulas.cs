@@ -1,7 +1,14 @@
+using System.Collections.Generic;
+using MaoNaMassa.ContextoDeConteudo;
 using MaoNaMassa.ContextoDeConteudo.Enums;
+using MaoNaMassa.NotificacoesDeConteudo;
+using MaoNaMassa.ConteudoCompartilhado;
+using System.Linq;
+using System;
 namespace MaoNaMassa.ContextoDeConteudo
 {
-    public class Aulas 
+    public class Aulas : Base
+    
     {
         public int Ordem { get; set; }
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\OrientacaoAObjetosBalta\\MaoNaMassa\\MaoNaMassa.csproj": {}
+    "C:\\dev\\OrientacaoAObjetosBalta\\MaoNaMassa\\MaoNaMassa.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\OrientacaoAObjetosBalta\\MaoNaMassa\\MaoNaMassa.csproj": {
+    "C:\\dev\\OrientacaoAObjetosBalta\\MaoNaMassa\\MaoNaMassa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\OrientacaoAObjetosBalta\\MaoNaMassa\\MaoNaMassa.csproj",
+        "projectUniqueName": "C:\\dev\\OrientacaoAObjetosBalta\\MaoNaMassa\\MaoNaMassa.csproj",
         "projectName": "MaoNaMassa",
-        "projectPath": "C:\\Dev\\OrientacaoAObjetosBalta\\MaoNaMassa\\MaoNaMassa.csproj",
+        "projectPath": "C:\\dev\\OrientacaoAObjetosBalta\\MaoNaMassa\\MaoNaMassa.csproj",
         "packagesPath": "C:\\Users\\brwil\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\OrientacaoAObjetosBalta\\MaoNaMassa\\obj\\",
+        "outputPath": "C:\\dev\\OrientacaoAObjetosBalta\\MaoNaMassa\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\brwil\\AppData\\Roaming\\NuGet\\NuGet.Config",

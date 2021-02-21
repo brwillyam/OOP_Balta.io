@@ -1,8 +1,9 @@
 using System.Collections.Generic;
+using MaoNaMassa.ConteudoCompartilhado;
 
 namespace MaoNaMassa.ContextoDeConteudo
 {
-    public class Modulo 
+    public class Modulo : Base
     {
     
         public Modulo()

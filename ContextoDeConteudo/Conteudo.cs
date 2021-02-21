@@ -1,5 +1,6 @@
 using System;
 using MaoNaMassa.ContextoDeConteudo;
+using MaoNaMassa.ConteudoCompartilhado;
 
 
 namespace MaoNaMassa.ContextoDeConteudo
